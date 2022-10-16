@@ -12,5 +12,5 @@
  <li>SwiperJS</li>
 </ul>
 
-<img src="/Readme/2" alt="">
-<img src="/Readme/1" alt="">
+<img src="/imagens do projeto/2.jpg" alt="">
+<img src="/imagens do projeto/1.jpg" alt="">
